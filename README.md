@@ -1,2 +1,2 @@
-# Videologist-v2
-V2 
+# Videologists
+Chrome Extension for Tagging Video
